@@ -71,6 +71,9 @@
   #logo{
     padding: 60px 0 0;
   }
+  #logo h2{
+    display:none;
+  }
   #social{
     top: 60px;
   }
